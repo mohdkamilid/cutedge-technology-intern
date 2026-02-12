@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cutedge-technology-intern/static/css/main.68021de8.css",
+    "main.js": "/cutedge-technology-intern/static/js/main.c9d5e83f.js",
+    "static/js/453.a7d99afe.chunk.js": "/cutedge-technology-intern/static/js/453.a7d99afe.chunk.js",
+    "index.html": "/cutedge-technology-intern/index.html",
+    "main.68021de8.css.map": "/cutedge-technology-intern/static/css/main.68021de8.css.map",
+    "main.c9d5e83f.js.map": "/cutedge-technology-intern/static/js/main.c9d5e83f.js.map",
+    "453.a7d99afe.chunk.js.map": "/cutedge-technology-intern/static/js/453.a7d99afe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68021de8.css",
+    "static/js/main.c9d5e83f.js"
+  ]
+}
